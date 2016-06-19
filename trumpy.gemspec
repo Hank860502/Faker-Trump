@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.description = %q{Trump's Faker gem}
   s.email = %q{hank860502@gmail.com}
   s.files = ["Rakefile", "lib/trumpy.rb", "lib/trumpy/saying.rb", "lib/trumpy/image.rb", "bin/trumpy"]
-  s.test_files = ["test/test_trump.rb"]
+  s.test_files = ["test/test_trumpy.rb"]
   s.homepage = %q{http://rubygems.org/gems/trumpy}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{2.1.0}
