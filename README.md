@@ -20,5 +20,5 @@ Contents
 Installing
 ----------
 ```bash
-gem install trumpy
+gem 'trumpy', '~>2.1'
 ```
