@@ -5,20 +5,21 @@
 
 * While Faker generates data at random, returned values are not guaranteed to be unique.
 
-Contents
---------
-
-- [Installing](#installing)
-- 
-
-
-
-
-
-
-
 Installing
 ----------
 ```bash
 gem 'trumpy', '~>2.1'
 ```
+
+Contents
+--------
+
+- [Usage](#usage)
+  - [Trumpy::Saying.sentence](#trumpysaying)
+
+
+
+
+
+
+
