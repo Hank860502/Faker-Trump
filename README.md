@@ -16,7 +16,8 @@ Contents
 
 - [Usage](#usage)
  ```ruby
-- Faker::Name.name      #=> "Christophe Bartell"
+- Trumpy::Saying.sene=tence      #=> "Christophe Bartell"
+```
   - [Trumpy::Saying.sentence](#trumpysaying)
 
 
