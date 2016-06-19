@@ -1,4 +1,4 @@
-class Trump
+class Trumpy
 
   def self.author
      "Hank Chen from Taiwan!!!"
@@ -6,5 +6,5 @@ class Trump
 
 end
 
-require 'trump/saying'
-require 'trump/image'
+require 'trumpy/saying'
+require 'trumpy/image'
