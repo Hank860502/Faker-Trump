@@ -1,4 +1,4 @@
-class Obama
+class Trump
 
   def self.author
      "Hank Chen from Taiwan!!!"
@@ -6,5 +6,5 @@ class Obama
 
 end
 
-require 'obama/saying'
-require 'obama/image'
+require 'trump/saying'
+require 'trump/image'
