@@ -10,6 +10,7 @@
 * While Trumpy generates data at random, returned values are not guaranteed to be unique.
 
 * It is hard to tell that whether Trump is serious or not, which caused some images being misplaced in the wrong category...
+
 Installing
 ----------
 ```bash
