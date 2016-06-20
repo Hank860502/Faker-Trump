@@ -1,15 +1,15 @@
 # Trumpy
  This gem is a port of Hank's Trumpy library that generates fake data.
  
- Four Different methods are now available for all kind of use.
+ Four Different methods are now available for all kinds of use.
  
- More methods coming up if this repository were stared more an 50 times.
+More methods will be uploaded if this repository is stared more an 50 times.
  
 ### NOTE
 
 * While Trumpy generates data at random, returned values are not guaranteed to be unique.
 
-* It is hard to tell that whether Trump is serious or not, which caused some images being misplaced in the wrong category...
+* Since it is hard to tell whether Trump is serious or not, some images would be misplaced in a wrong category...
 
 Installing
 ----------
