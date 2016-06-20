@@ -3,7 +3,7 @@
  
  Four Different methods are now available for all kind of use.
  
- More methods coming up if this Repository were stared more an 50 times.
+ More methods coming up if this repository were stared more an 50 times.
  
 ### NOTE
 
@@ -47,6 +47,7 @@ Trumpy::Saying.sentence   #=> "One of the key problems today is that politics is
 --------
 ```ruby
 Trumpy::Image.serious     #=> "http://assets.rollingstone.com/assets/2015/article/trump-seriously-20150909/208261/medium_rect/1441301078/720x405-R1244_FEA_Trump_A_SML.jpg"
+![alt tag](http://assets.rollingstone.com/assets/2015/article/trump-seriously-20150909/208261/medium_rect/1441301078/720x405-R1244_FEA_Trump_A_SML.jpg)
 Trumpy::Image.funny       #=> "http://eaworldview.com/wp-content/uploads/2016/05/TRUMP-FIGHTING-POSE-e1463585249994-680x365_c.jpg"
 ```
 
