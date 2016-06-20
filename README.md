@@ -1,4 +1,4 @@
-# Faker-Trump
+# Trumpy
  This gem is a port of Hank's Trumpy library that generates fake data.
  
  Four Different methods are now available for all kind of use.
