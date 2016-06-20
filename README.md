@@ -30,7 +30,7 @@ Trumpy::Saying.sentence   #=> "Do you mind if I sit back a little? Because your 
 
 Trumpy::Image.funny       #=> "http://eaworldview.com/wp-content/uploads/2016/05/TRUMP-FIGHTING-POSE-e1463585249994-680x365_c.jpg",
 ```
-https://cloud.githubusercontent.com/assets/17296898/16185868/bc07a12e-367b-11e6-8f7e-121e14957b65.jpg
+![alt tag](https://cloud.githubusercontent.com/assets/17296898/16185868/bc07a12e-367b-11e6-8f7e-121e14957b65.jpg)
 
 ###Trumpy.author
 --------
