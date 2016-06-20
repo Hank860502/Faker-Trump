@@ -49,7 +49,7 @@ Trumpy::Saying.sentence   #=> "One of the key problems today is that politics is
 ###Trumpy::Image
 --------
 ```ruby
-Trumpy::Image.funny       #=> "http://eaworldview.com/wp-content/uploads/2016/05/TRUMP-FIGHTING-POSE-e1463585249994-680x365_c.jpg"
+Trumpy::Image.funny       #=> "http://www.decodedc.com/wp-content/uploads/2015/11/HappyTrump.jpg"
 Trumpy::Image.serious     #=> "http://assets.rollingstone.com/assets/2015/article/trump-seriously-20150909/208261/medium_rect/1441301078/720x405-R1244_FEA_Trump_A_SML.jpg"
 ```
 ![alt tag](https://cloud.githubusercontent.com/assets/17296898/16185869/bfb88be4-367b-11e6-92ba-bad0e559cd78.jpg)
