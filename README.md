@@ -21,7 +21,7 @@ Contents
 --------
 - [Trumpy.author](#trumpyauthor)
 - [Trumpy::Saying](#trumpysaying)
-- [Trumpy::Image](#trumpyimage)
+- [Trumpy::Image](#trumpyimage)  
 
 ##Usage
 --------
