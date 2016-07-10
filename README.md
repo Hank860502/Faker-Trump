@@ -1,7 +1,7 @@
 # Trumpy
  This gem is a port of Hank's Trumpy library that generates fake data.
  
- Four Different methods are now available for all kinds of use.
+ Four Different methods are now available for all kinds of use. 
  
 More methods will be uploaded if this repository is stared more an 50 times.
  
